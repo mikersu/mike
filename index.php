@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <?php include_once 'inc_header.php'; ?>
 
@@ -397,3 +398,6 @@
 
 
 <?php include_once 'inc_footer.php'; ?>
+=======
+<meta HTTP-EQUIV="REFRESH" content="0; url=layout.php">
+>>>>>>> b67b6a704ce58b040f0e21bb620cb28ed20d03e4
