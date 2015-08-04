@@ -21,7 +21,7 @@
       </div>
       <div class="link-page">
        <ol class="breadcrumb">
-         <li><a href="layout.php">หน้าแรก</a></li>
+         <li><a href="index.php">หน้าแรก</a></li>
          <li class="active"><a href="javascript:void(0)">ข่าวสาร&กิจกรรม</a></li>
        </ol>
      </div>

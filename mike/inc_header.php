@@ -118,7 +118,7 @@
 
                             <div class="col-md-12 text-right">
                                 <ul class="sitemap text-right">
-                                    <li><a href="layout.php">หน้าแรก</a></li>
+                                    <li><a href="index.php">หน้าแรก</a></li>
                                     <li><a href="health_consu.php">เว็บบอร์ด</a></li>
                                     <li><a href="about.php">ติดต่อเรา</a></li>
                                 </ul>
@@ -147,7 +147,7 @@
                         <div class="header-left clearfix">
                             <!-- logo -->
                             <div id="logo" class="logo" style="text-center">
-                                <a href="layout.php"><img id="logo_img" src="images/logo_light_blue.png" class="img-responsive"></a>
+                                <a href="index.php"><img id="logo_img" src="images/logo_light_blue.png" class="img-responsive"></a>
                             </div>
                         </div>
                         <!-- header-left end -->
@@ -184,7 +184,7 @@
                                             <!-- main-menu -->
                                             <ul class="nav navbar-nav ">
                                                 <li class="dropdown">
-                                                    <a href="layout.php">หน้าแรก</a>
+                                                    <a href="index.php">หน้าแรก</a>
                                                 </li>
                                                 <li class="dropdown">
                                                     <a href="about.php" class="dropdown-toggle" data-toggle="dropdown">เกี่ยวกับเรา</a>

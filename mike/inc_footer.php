@@ -18,7 +18,7 @@
             <div class="col-md-6 text-right">
 
                <ul class="sitemap">
-                   <li><a href="layout.php">หน้าแรก</a></li>
+                   <li><a href="index.php">หน้าแรก</a></li>
                    <li><a href="about.php">เกี่ยวกับเรา</a></li>
                    <li><a href="health_service.php">บริการของเรา</a></li>
                    <li><a href="health_consu.php">ปัญหาสุขภาพ</a></li>
